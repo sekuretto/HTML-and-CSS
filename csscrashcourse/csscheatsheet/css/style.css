@@ -54,6 +54,7 @@ a:visited{
 	color: #fff;
 }
 
+/* "clear-fix": clears float above it, after previous element*/
 .clr{
 	clear: both;
 }
