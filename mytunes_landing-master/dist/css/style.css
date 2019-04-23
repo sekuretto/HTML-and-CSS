@@ -58,6 +58,7 @@ section#entertainment {
   padding: 0;
   background: url('../img/showcase.jpg') no-repeat center/cover;
   width: 100%;
+  /* vh = viewport-height */
   height: 100vh;
   position: relative;
   overflow-y: hidden;

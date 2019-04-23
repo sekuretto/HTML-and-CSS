@@ -18,3 +18,6 @@ mytunes_landing:
 Responsive Landing Page Using HTML & CSS (a little jQuery)
 https://www.youtube.com/watch?v=GJXXf3_dcng&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=4
 
+elegant_blur_landing:
+HTML & CSS Easy Elegant Landing Page With Blur Effect
+https://www.youtube.com/watch?v=HZv8YHYUHTU&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=5
