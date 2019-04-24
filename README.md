@@ -23,5 +23,13 @@ HTML & CSS Easy Elegant Landing Page With Blur Effect
 https://www.youtube.com/watch?v=HZv8YHYUHTU&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=5
 
 responsive_photography:
-Build a Responsive, Mobile-First Website - HTML5 & CSS3:
+Build a Responsive, Mobile-First Website - HTML5 & CSS3
 https://www.youtube.com/watch?v=XsEnj-1hG2o&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=6
+
+cssgrid:
+CSS Grid Layout Crash Course:
+https://www.youtube.com/watch?v=jV8B24rSN5o&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=7
+
+flexbox:
+Flexbox CSS in 20 Minutes
+https://www.youtube.com/watch?v=JJSoEo8JSnc&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=8
