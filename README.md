@@ -21,3 +21,7 @@ https://www.youtube.com/watch?v=GJXXf3_dcng&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq7
 elegant_blur_landing:
 HTML & CSS Easy Elegant Landing Page With Blur Effect
 https://www.youtube.com/watch?v=HZv8YHYUHTU&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=5
+
+responsive_photography:
+Build a Responsive, Mobile-First Website - HTML5 & CSS3:
+https://www.youtube.com/watch?v=XsEnj-1hG2o&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=6
