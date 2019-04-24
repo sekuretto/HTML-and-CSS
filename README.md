@@ -33,3 +33,7 @@ https://www.youtube.com/watch?v=jV8B24rSN5o&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq7
 flexbox:
 Flexbox CSS in 20 Minutes
 https://www.youtube.com/watch?v=JJSoEo8JSnc&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=8
+
+easy_landing:
+Easy Fullscreen Landing Page with HTML & CSS
+https://www.youtube.com/watch?v=hVdTQWASliE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=9
