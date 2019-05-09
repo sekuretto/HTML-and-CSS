@@ -41,3 +41,7 @@ https://www.youtube.com/watch?v=hVdTQWASliE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq7
 responsive_navbar:
 Responsive Navigation Bar Tutorial / HTML CSS JavaScript
 https://www.youtube.com/watch?v=gXkqy0b4M5g
+
+sluralpright:
+Pluralsight Login Page Clone - HTML & CSS
+https://www.youtube.com/watch?v=wIx1O5Y5EB4&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=10
