@@ -46,6 +46,7 @@ h6 {
   justify-content: center;
   align-items: center;
   width: 80%;
+  /* 1rem = 16px, 2rem = 32px, ... */
   padding-bottom: 1rem;
 }
 
