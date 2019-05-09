@@ -12,7 +12,7 @@
   }
   
   #showcase{
-    background-image:url('http://traversymedia.com/downloads/assets/beachshowcase.jpg');
+    background-image:url('./img/beach-beachlife-salt-water-21859.jpg');
     background-size:cover;
     background-position:center;
     height:100vh;
