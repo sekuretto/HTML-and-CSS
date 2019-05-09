@@ -37,3 +37,7 @@ https://www.youtube.com/watch?v=JJSoEo8JSnc&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq7
 easy_landing:
 Easy Fullscreen Landing Page with HTML & CSS
 https://www.youtube.com/watch?v=hVdTQWASliE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=9
+
+responsive_navbar:
+Responsive Navigation Bar Tutorial / HTML CSS JavaScript
+https://www.youtube.com/watch?v=gXkqy0b4M5g
