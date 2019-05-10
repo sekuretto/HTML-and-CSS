@@ -46,7 +46,13 @@ sluralpright:
 Pluralsight Login Page Clone - HTML & CSS
 https://www.youtube.com/watch?v=wIx1O5Y5EB4&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=10
 
+sliding_signinup:
 Sliding Sign In & Sign Up Form
 https://www.youtube.com/watch?v=mUdo6w87rh4&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=11
 https://www.florin-pop.com/blog/2019/03/double-slider-sign-in-up-form/
 https://codepen.io/FlorinPop17/pen/vPKWjd
+
+hamburgermenu_overlay:
+Pure CSS Hamburger Menu & Overlay
+https://www.youtube.com/watch?v=DZg6UfS5zYg&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=12
+https://codepen.io/bradtraversy/pen/vMGBjQ
