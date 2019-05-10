@@ -45,3 +45,8 @@ https://www.youtube.com/watch?v=gXkqy0b4M5g
 sluralpright:
 Pluralsight Login Page Clone - HTML & CSS
 https://www.youtube.com/watch?v=wIx1O5Y5EB4&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=10
+
+Sliding Sign In & Sign Up Form
+https://www.youtube.com/watch?v=mUdo6w87rh4&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=11
+https://www.florin-pop.com/blog/2019/03/double-slider-sign-in-up-form/
+https://codepen.io/FlorinPop17/pen/vPKWjd
