@@ -77,3 +77,7 @@ BUILD AN ADMIN THEME VIDEO
 https://www.youtube.com/watch?v=pXbEcGUtHgo
 10 PROJECT BOOTSTRAP COURSE:
 https://www.eduonix.com/courses/Web-Development/Learn-Bootstrap-Development-By-Building-10-Projects
+
+adminstrap_theme:
+Build a CMS Admin Bootstrap Theme From Scratch
+https://www.youtube.com/watch?v=pXbEcGUtHgo&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=16
