@@ -60,6 +60,7 @@ https://codepen.io/bradtraversy/pen/vMGBjQ
 fullscreen_video:
 Fullscreen Video Background With HTML & CSS
 https://www.youtube.com/watch?v=Xy3GlrddZFI&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=13
+https://codepen.io/bradtraversy/pen/pWpRom
 https://www.videvo.net
 
 parallax_website:
