@@ -66,3 +66,13 @@ https://www.videvo.net
 parallax_website:
 Basic Parallax Website With HTML & CSS
 https://www.youtube.com/watch?v=JttTcnidSdQ&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=14
+
+bootstrap:
+Bootstrap Beginner Crash Course
+https://www.youtube.com/watch?v=5GcQtLDGXy8&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=15
+9 HOUR BOOTSTRAP 4 COURSE W/5 PROJECTS:
+https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/?couponCode=YOU_TUBE
+BUILD AN ADMIN THEME VIDEO
+https://www.youtube.com/watch?v=pXbEcGUtHgo
+10 PROJECT BOOTSTRAP COURSE:
+https://www.eduonix.com/courses/Web-Development/Learn-Bootstrap-Development-By-Building-10-Projects
