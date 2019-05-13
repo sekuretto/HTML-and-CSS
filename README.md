@@ -61,3 +61,7 @@ fullscreen_video:
 Fullscreen Video Background With HTML & CSS
 https://www.youtube.com/watch?v=Xy3GlrddZFI&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=13
 https://www.videvo.net
+
+parallax_website:
+Basic Parallax Website With HTML & CSS
+https://www.youtube.com/watch?v=JttTcnidSdQ&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=14
