@@ -80,6 +80,15 @@ adminstrap_theme:
 Build a CMS Admin Bootstrap Theme From Scratch
 https://www.youtube.com/watch?v=pXbEcGUtHgo&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=16
 
+CSS text background animation:
+https://www.youtube.com/watch?v=lX5LZTWc4f8&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=18
+
+CSS pricing tables:
+https://www.youtube.com/watch?v=7rJ5rhdVvOo&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=19
+
+responsivesidemenu:
+https://www.youtube.com/watch?v=wpGNFGqNfdU&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=20
+
 Animated counter:
 https://www.youtube.com/watch?v=a6XIMIKmj9k
 https://codepen.io/bradtraversy/pen/poJwqOK
@@ -92,3 +101,10 @@ CSS Loaders:
 https://www.youtube.com/watch?v=BwhTKJFpKSw&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=22
 https://codepen.io/bradtraversy/pen/Xwxvzp
 
+responsiveform with firebase:
+https://www.youtube.com/watch?v=Sb5qOa3R4hY&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=24
+https://www.youtube.com/watch?v=PP4Tr0l08NE
+
+techscroll:
+https://www.youtube.com/watch?v=ePgnR4gHIi4&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=25
+https://github.com/jlmakes/scrollreveal
