@@ -30,7 +30,7 @@
   justify-content: center;
 }
 
-/* Hamburger Line */
+/* Middle Hamburger Line */
 .menu-wrap .hamburger > div {
   position: relative;
   flex: none;
@@ -55,7 +55,7 @@
   background: inherit;
 }
 
-/* Moves Line Down */
+/* Moves Bottom Line Down */
 .menu-wrap .hamburger > div::after {
   top: 10px;
 }
