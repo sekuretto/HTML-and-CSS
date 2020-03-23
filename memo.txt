@@ -108,3 +108,7 @@ https://www.youtube.com/watch?v=PP4Tr0l08NE
 techscroll:
 https://www.youtube.com/watch?v=ePgnR4gHIi4&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=25
 https://github.com/jlmakes/scrollreveal
+
+Type Writer Effect:
+https://www.youtube.com/watch?v=POX3dT-pB4E
+https://codepen.io/bradtraversy/pen/jeNjwP
