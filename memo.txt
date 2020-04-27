@@ -73,7 +73,8 @@ https://getbootstrap.com/
 https://www.udemy.com/bootstrap-4-from-scratch-with-5-projects/?couponCode=YOU_TUBE
 BUILD AN ADMIN THEME VIDEO
 https://www.youtube.com/watch?v=pXbEcGUtHgo
-10 PROJECT BOOTSTRAP COURSE:
+bootstrap_projects_course:
+Learn Bootstrap Development By Building 10 Projects (Eduonix)
 https://www.eduonix.com/courses/Web-Development/Learn-Bootstrap-Development-By-Building-10-Projects
 
 adminstrap_theme:
