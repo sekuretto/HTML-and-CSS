@@ -1,1 +1,0 @@
-Responsive fake financial company website with Flexbox, Google Map API and smooth scrolling (JavaScript) and PHP contact form
