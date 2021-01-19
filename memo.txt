@@ -13,7 +13,7 @@ Build an HTML5 Website With a Responsive Layout
 https://www.youtube.com/watch?v=Wm6CUkswsNw&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=3
 
 mytunes_landing:
-Responsive Landing Page Using HTML & CSS (a little jQuery)
+Responsive Landing Page Using HTML & CSS (a little jQuery)  
 https://www.youtube.com/watch?v=GJXXf3_dcng&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=4
 
 elegant_blur_landing:
