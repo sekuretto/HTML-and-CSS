@@ -111,5 +111,8 @@ https://www.youtube.com/watch?v=ePgnR4gHIi4&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq7
 https://github.com/jlmakes/scrollreveal
 
 Type Writer Effect:
-https://www.youtube.com/watch?v=POX3dT-pB4E
-https://codepen.io/bradtraversy/pen/jeNjwP
+https://www.youtube.com/watch?v=POX3dT-pB4E  
+https://codepen.io/bradtraversy/pen/jeNjwP  
+
+CSS3 Animations & Transitions Crash Course:
+https://www.youtube.com/watch?v=zHUpx90NerM
